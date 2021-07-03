@@ -1,0 +1,1 @@
+export const Words = `王八蛋,傻逼,傻X,傻x`

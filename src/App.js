@@ -51,7 +51,7 @@ export default function App () {
     if (res.length) {
       alert('你的输入包含不文明词汇：' + res.join('，'))
     } else {
-      alert('合法输入')
+      alert('合法输入！')
     }
   }
 
